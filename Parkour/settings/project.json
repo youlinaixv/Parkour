@@ -1,0 +1,94 @@
+{
+  "cocos-analytics": {
+    "appID": "13798",
+    "appSecret": "959b3ac0037d0f3c2fdce94f8421a9b2",
+    "channel": "",
+    "enable": false,
+    "version": ""
+  },
+  "collision-matrix": [
+    [
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 640,
+  "design-resolution-width": 960,
+  "excluded-modules": [
+    "DragonBones",
+    "EditBox",
+    "Geom Utils",
+    "Layout",
+    "Mask",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ParticleSystem",
+    "RichText",
+    "ScrollView",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default",
+    "Person",
+    "CoinRotate",
+    "Props",
+    "Monster"
+  ],
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "245ca96a-c76f-412f-ae26-e6962d67e276",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false,
+  "last-module-event-record-time": 1590409891526,
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "migrate-history": []
+}

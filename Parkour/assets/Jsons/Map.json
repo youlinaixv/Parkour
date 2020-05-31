@@ -1,0 +1,20 @@
+[
+    {"ID":1,"res":"Prefab/Normal_map/Map1"},
+    {"ID":2,"res":"Prefab/Normal_map/Map2"},
+    {"ID":3,"res":"Prefab/Normal_map/Map3"},
+    {"ID":4,"res":"Prefab/Normal_map/Map4"},
+    {"ID":5,"res":"Prefab/Normal_map/Map5"},
+    {"ID":6,"res":"Prefab/Normal_map/Map6"},
+    {"ID":7,"res":"Prefab/Normal_map/Map7"},
+    {"ID":8,"res":"Prefab/Normal_map/Map8"},
+    {"ID":9,"res":"Prefab/Normal_map/Map9"},
+    {"ID":10,"res":"Prefab/Normal_map/Map10"},
+    {"ID":11,"res":"Prefab/Normal_map/Map11"},
+    {"ID":12,"res":"Prefab/Normal_map/Map12"},
+    {"ID":13,"res":"Prefab/Normal_map/Map13"},
+    {"ID":14,"res":"Prefab/Normal_map/Map14"},
+    {"ID":15,"res":"Prefab/Normal_map/Map15"},
+    {"ID":16,"res":"Prefab/Normal_map/Map16"},
+    {"ID":17,"res":"Prefab/Hidden_map/HiddenMap1"},
+    {"ID":18,"res":"Prefab/Hidden_map/HiddenMap2"}
+]
