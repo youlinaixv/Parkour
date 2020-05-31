@@ -60,7 +60,6 @@ cc.Class({
     Set_Map () {
         console.log(this.map_count);
         if(this.map_count == 8) {
-            console.log("the hidden");
             this.map_count++;
             var id = Math.floor(Math.random() * 2 + 16);
             var data = this.map_data.json[id];
@@ -92,7 +91,6 @@ cc.Class({
         }else {
             var id = Math.floor(Math.random() * 16);
             var data = this.map_data.json[id];
-            console.log("normal map", id + 1);
             if(data != undefined) {           
                 var self = this;
                 cc.loader.loadRes(data.res, function(err,loadedResource) {
